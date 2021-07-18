@@ -10,5 +10,3 @@
 ### Highlighted Projects
 [![Briskvey](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=briskvey)](https://github.com/Steve-Dusty/briskvey)
 [![Discord Tools](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=Discord-Tools)](https://github.com/Steve-Dusty/Discord-Tools)
-[![Domfights.io Site](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=df-site)](https://github.com/Steve-Dusty/df-site)
-[![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=tic-tac-toe)](https://github.com/Steve-Dusty/tic-tac-toe)
