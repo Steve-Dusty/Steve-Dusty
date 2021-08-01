@@ -1,5 +1,3 @@
-### HI BANANA 
-
 ### …the Linux philosophy is "laugh in the face of danger". Oops. Wrong one. "Do it yourself". That's it.
 
 ### Steve's Analytics
