@@ -12,5 +12,5 @@
 [![Discord Tools](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=Discord-Tools)](https://github.com/Steve-Dusty/Discord-Tools)
 [![Django Todo](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=django-todo)](https://github.com/Steve-Dusty/django-todo)
 [![Django Polls](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=django-polls)](https://github.com/Steve-Dusty/django-polls)
-[![URL Shortener](https://github.com/Steve-Dusty/url-shortener)
+[![URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Steve-Dusty&repo=url-shortener)](https://github.com/Steve-Dusty/url-shortener)
 
